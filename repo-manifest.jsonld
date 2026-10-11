@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-trio/trio-monitor/commit/1fc9766a18f81983e4999061f30ec53329d7259d",
       "git:hexsha": "1fc9766a18f81983e4999061f30ec53329d7259d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
